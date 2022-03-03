@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-share-text.git/static/css/main.4a3a5a73.css",
+    "main.js": "/react-share-text.git/static/js/main.a294ebbb.js",
+    "index.html": "/react-share-text.git/index.html",
+    "main.4a3a5a73.css.map": "/react-share-text.git/static/css/main.4a3a5a73.css.map",
+    "main.a294ebbb.js.map": "/react-share-text.git/static/js/main.a294ebbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a3a5a73.css",
+    "static/js/main.a294ebbb.js"
+  ]
+}
